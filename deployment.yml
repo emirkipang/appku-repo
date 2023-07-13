@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: ct-appsku
-        image: emirkipang/apps-games
+        image: emirkipang/apps-2048
         ports:
         - containerPort: 80
